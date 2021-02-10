@@ -1,0 +1,18 @@
+HOW TO USE THIS SCRIPT
+
+$ pkg update && apt upgrade
+
+$ pkg install python
+
+$ cd /sdcard/(file)
+
+  > ekstrak file
+
+$ python doge.py +62xxxx
+
+$ enter password ("doge56")
+
+$ this password auto saved in your phone
+
+$ enjoy
+
